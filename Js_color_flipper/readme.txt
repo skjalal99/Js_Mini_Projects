@@ -24,7 +24,7 @@ How the JavaScript Works:
    When the user clicks the button:
    - A new random color is generated
    - The background color of the page is updated
-   - The color code is shown in the text on the page
+   - The color code is shown in the text on the pages
    - The color code is logged to the console for reference
 
 How to Run:
